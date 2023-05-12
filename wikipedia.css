@@ -1,0 +1,10 @@
+li{
+    list-style-type: none;
+}
+.one{
+    font-size: 13px;
+}
+.two{
+    border-left: none;
+    border-radius: none;
+}

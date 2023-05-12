@@ -1,0 +1,244 @@
+.text-style{
+    font-family: roboto;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+
+}
+.text-edit{
+    color: rgb(96, 96, 96);
+    font-family: Arial;
+    
+}
+.shop-edit {
+    background-color: rgb(227, 65, 64);
+    color: white;
+    
+    padding-top: 18px;
+    padding-bottom: 18px;
+    margin-top:100px; 
+    font-family: Arial;
+    text-align: center;
+    font-size: 18px;
+    
+}
+.shop-style{
+  
+   text-decoration: underline;
+
+}
+.shop-style:hover{
+   cursor: pointer;
+   
+}
+.tahoma-style{
+    font-family:  Tahoma;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+
+}  
+.deals-style{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 0px;
+}
+.sales-style{
+    color: red;
+    margin-top: 0px;
+    line-height: 24px;
+    font-family: Arial;
+}
+.html-style{
+    font-family: arial;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 28px;
+}
+.pro-style{
+    color: rgb(96, 96, 96);
+    margin-top: 0px;
+    font-family: arial;
+    font-size: 16px;
+    
+}
+.text-skill{
+    width: 300px;
+    font-family: arial;
+    font-size: 16px;
+    
+}
+.get-button{
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+}
+.shop-style{
+    font-family: arial;
+    font-size: 18px;
+    text-align: center;
+    line-height: 24px;
+
+}
+.apple-style{
+    text-align: center;
+    font-family: arial;
+}
+.learn-edit{
+    text-align: center;
+    color: rgb(72, 72, 168);
+   text-decoration: underline;
+   font-family: arial;
+}
+.new-style{
+   color: rgb(216, 141, 0);
+   text-align: center;
+   font-weight: bold;
+   font-family: arial;
+   margin-bottom: 0px;
+   font-size: 10px;
+   
+}
+
+.MacBook-style{
+    
+    font-size: 12px;
+    font-family: arial;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0px;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+.pros-style{
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: arial;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.pros-style{
+   text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.money-style{
+   font-family: arial;
+   margin-top: 0px;
+   text-align: center;
+   font-size: 10px;
+   line-height: 24px;
+
+}
+.buy-button{   
+
+background-color: rgb(0, 113, 227);
+color: white;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 30px;
+font-weight: bold;
+cursor: pointer;
+text-align: center;
+font-family: arial;
+}     
+
+.figures-style{
+font-size: 15px;
+font-family: arial;
+margin-bottom: 0px;
+}
+.usd-style{
+color: rgb(96, 96, 96);
+font-size: 7px;
+font-family: arial;
+margin-left: 5px;
+
+}
+.green-style{
+color: green;
+font-size: 7px;
+font-family: arial;
+margin-top: 0px;
+line-height: 10px;
+margin-bottom: 0px;
+
+
+
+}   
+.after-style{
+color: rgb(96, 96, 96);
+font-size: 7px;
+font-family: arial;
+margin-top: 0px;
+margin-bottom: 0px;
+line-height: 10px;
+
+}
+.red-style{
+color: rgb(124, 16, 16);
+font-family: arial;
+
+}
+.a-style{
+font-weight: bold;
+font-size: 18px;
+margin-bottom: 0px;
+font-family: arial;
+
+}
+.b-style{
+color: rgb(96, 96, 96);
+font-size: 18px;
+margin-top: 0px;
+font-family: arial;
+font-weight: lighter ;
+}
+.c-style{
+font-size: 18px;
+width: 300px;
+font-family: arial;
+margin-top: 0px;
+line-height: 24px;
+
+}
+.d-style{
+font-size: 18px;
+font-family: arial;
+
+}
+.e-style{
+color: rgb(0, 174, 255);
+font-family: arial;
+}
+.f-style{
+    font-family:monserrat;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: -10px;
+}
+.g-style{
+    font-family:monserrat;
+    
+}
+.h-style{
+    text-decoration: underline;
+   
+}
+.i-style{
+    
+    
+}

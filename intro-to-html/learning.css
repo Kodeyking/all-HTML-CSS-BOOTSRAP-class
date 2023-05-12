@@ -1,0 +1,28 @@
+#home{
+    margin-left: 900px;
+    margin-top: -45px;
+}
+#home:hover{
+    background-color: rgb(29, 161, 139);
+    color: white;
+   
+   
+
+}
+#contact{
+    margin-left: 1000px;
+    margin-top: -40px;
+}
+#about{
+    margin-left: 1100px;
+    margin-top: -40px;
+}
+hr{
+    margin-top: -10px;
+}
+p{
+    color: rgb(1, 1, 92);
+    font-weight: bold;
+    margin-top: -300px;
+    margin-left: 400px;
+}
